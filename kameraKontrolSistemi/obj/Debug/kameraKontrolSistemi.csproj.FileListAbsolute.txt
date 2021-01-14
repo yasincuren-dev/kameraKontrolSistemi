@@ -1,0 +1,12 @@
+C:\Users\yasin\OneDrive\Masaüstü\kameraKontrolSistemi\kameraKontrolSistemi\bin\Debug\kameraKontrolSistemi.exe.config
+C:\Users\yasin\OneDrive\Masaüstü\kameraKontrolSistemi\kameraKontrolSistemi\bin\Debug\kameraKontrolSistemi.exe
+C:\Users\yasin\OneDrive\Masaüstü\kameraKontrolSistemi\kameraKontrolSistemi\bin\Debug\kameraKontrolSistemi.pdb
+C:\Users\yasin\OneDrive\Masaüstü\kameraKontrolSistemi\kameraKontrolSistemi\obj\Debug\kameraKontrolSistemi.csprojAssemblyReference.cache
+C:\Users\yasin\OneDrive\Masaüstü\kameraKontrolSistemi\kameraKontrolSistemi\obj\Debug\kameraKontrolSistemi.Form1.resources
+C:\Users\yasin\OneDrive\Masaüstü\kameraKontrolSistemi\kameraKontrolSistemi\obj\Debug\kameraKontrolSistemi.Properties.Resources.resources
+C:\Users\yasin\OneDrive\Masaüstü\kameraKontrolSistemi\kameraKontrolSistemi\obj\Debug\kameraKontrolSistemi.csproj.GenerateResource.cache
+C:\Users\yasin\OneDrive\Masaüstü\kameraKontrolSistemi\kameraKontrolSistemi\obj\Debug\kameraKontrolSistemi.csproj.CoreCompileInputs.cache
+C:\Users\yasin\OneDrive\Masaüstü\kameraKontrolSistemi\kameraKontrolSistemi\obj\Debug\kameraKontrolSistemi.exe
+C:\Users\yasin\OneDrive\Masaüstü\kameraKontrolSistemi\kameraKontrolSistemi\obj\Debug\kameraKontrolSistemi.pdb
+C:\Users\yasin\OneDrive\Masaüstü\kameraKontrolSistemi\kameraKontrolSistemi\obj\Debug\kameraKontrolSistemi.Form2.resources
+C:\Users\yasin\OneDrive\Masaüstü\kameraKontrolSistemi\kameraKontrolSistemi\obj\Debug\kameraKontrolSistemi.Form3.resources
